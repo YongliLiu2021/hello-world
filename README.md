@@ -3,5 +3,4 @@ hello-world
 xxxxxxxxxxxxxxxxx
 gggggggggggggggggggggggg
 xxxxxxxxxxxxxxxxxxxxxxxx
-pppppppppppppppppppppppp
 cccccccccccccc
