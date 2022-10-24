@@ -5,5 +5,4 @@ gggggggggggggggggggggggg
 xxxxxxxxxxxxxxxxxxxxxxxx
 vvvvvvv11111vvvvvvvv
 vvvvvvvvvvvvvvvvvvvvvvvv
-aaaaa
 cccccccccccccc
