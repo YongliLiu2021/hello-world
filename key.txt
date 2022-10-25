@@ -1,0 +1,10 @@
+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
+
+
+git.exe pull -v --progress "origin"
+git.exe merge remotes/origin/main
+
+git.exe push --progress "origin" main:main
+
+
+
